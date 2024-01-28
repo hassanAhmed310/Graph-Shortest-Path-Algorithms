@@ -1,6 +1,6 @@
 # Graph-Shortest-Path-Algorithms
 
-## implementation of different Graph-Shortest-Path-Algorithms using different algorithms.
+## implementation of Graph-Shortest-Path using different algorithms.
 
 ### [Dijkstra’s Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 
